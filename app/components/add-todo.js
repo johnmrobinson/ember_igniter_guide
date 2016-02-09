@@ -3,7 +3,7 @@
 import Ember from 'ember';
 
 export default Ember.Component.extend({
-	myText: 'some text',
+	myText: 'some initial text',
 
 	actions: {
 		submitMe() {
